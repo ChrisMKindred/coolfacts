@@ -115,7 +115,7 @@ class Cool_Facts {
 	 */
 	public function __clone() {
 		// Cloning instances of the class is forbidden
-		_doing_it_wrong( __FUNCTION__, __( 'Cheatin&#8217; huh?', CF_LAND ), '1.0' );
+		_doing_it_wrong( __FUNCTION__, __( 'Cheatin&#8217; huh?', CF_LANG ), '1.0' );
 	}
 
 	/**
